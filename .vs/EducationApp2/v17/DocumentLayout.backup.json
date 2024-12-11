@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bsra4\\source\\repos\\EducationApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32AB4947-546F-4E96-AD3F-1FC877EE6346}|EducationApp2\\EducationApp2.csproj|c:\\users\\bsra4\\source\\repos\\educationapp2\\educationapp2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{32AB4947-546F-4E96-AD3F-1FC877EE6346}|EducationApp2\\EducationApp2.csproj|solutionrelative:educationapp2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32AB4947-546F-4E96-AD3F-1FC877EE6346}|EducationApp2\\EducationApp2.csproj|c:\\users\\bsra4\\source\\repos\\educationapp2\\educationapp2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{32AB4947-546F-4E96-AD3F-1FC877EE6346}|EducationApp2\\EducationApp2.csproj|solutionrelative:educationapp2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32AB4947-546F-4E96-AD3F-1FC877EE6346}|EducationApp2\\EducationApp2.csproj|c:\\users\\bsra4\\source\\repos\\educationapp2\\educationapp2\\dataaccess\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32AB4947-546F-4E96-AD3F-1FC877EE6346}|EducationApp2\\EducationApp2.csproj|solutionrelative:educationapp2\\dataaccess\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32AB4947-546F-4E96-AD3F-1FC877EE6346}|EducationApp2\\EducationApp2.csproj|c:\\users\\bsra4\\source\\repos\\educationapp2\\educationapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32AB4947-546F-4E96-AD3F-1FC877EE6346}|EducationApp2\\EducationApp2.csproj|solutionrelative:educationapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32AB4947-546F-4E96-AD3F-1FC877EE6346}|EducationApp2\\EducationApp2.csproj|c:\\users\\bsra4\\source\\repos\\educationapp2\\educationapp2\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32AB4947-546F-4E96-AD3F-1FC877EE6346}|EducationApp2\\EducationApp2.csproj|solutionrelative:educationapp2\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32AB4947-546F-4E96-AD3F-1FC877EE6346}|EducationApp2\\EducationApp2.csproj|c:\\users\\bsra4\\source\\repos\\educationapp2\\educationapp2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32AB4947-546F-4E96-AD3F-1FC877EE6346}|EducationApp2\\EducationApp2.csproj|solutionrelative:educationapp2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32AB4947-546F-4E96-AD3F-1FC877EE6346}|EducationApp2\\EducationApp2.csproj|c:\\users\\bsra4\\source\\repos\\educationapp2\\educationapp2\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32AB4947-546F-4E96-AD3F-1FC877EE6346}|EducationApp2\\EducationApp2.csproj|solutionrelative:educationapp2\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bsra4\\source\\repos\\EducationApp2\\EducationApp2\\Program.cs",
+              "RelativeDocumentMoniker": "EducationApp2\\Program.cs",
+              "ToolTip": "C:\\Users\\bsra4\\source\\repos\\EducationApp2\\EducationApp2\\Program.cs",
+              "RelativeToolTip": "EducationApp2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T09:58:33.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\bsra4\\source\\repos\\EducationApp2\\EducationApp2\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "EducationApp2\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\bsra4\\source\\repos\\EducationApp2\\EducationApp2\\Properties\\launchSettings.json",
+              "RelativeToolTip": "EducationApp2\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABYAAAAAAAAAAAAmwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-11T12:18:03.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\bsra4\\source\\repos\\EducationApp2\\EducationApp2\\appsettings.json",
+              "RelativeDocumentMoniker": "EducationApp2\\appsettings.json",
+              "ToolTip": "C:\\Users\\bsra4\\source\\repos\\EducationApp2\\EducationApp2\\appsettings.json",
+              "RelativeToolTip": "EducationApp2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-11T09:58:28.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\bsra4\\source\\repos\\EducationApp2\\EducationApp2\\DataAccess\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "EducationApp2\\DataAccess\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\bsra4\\source\\repos\\EducationApp2\\EducationApp2\\DataAccess\\ApplicationDbContext.cs",
+              "RelativeToolTip": "EducationApp2\\DataAccess\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T12:01:17.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\bsra4\\source\\repos\\EducationApp2\\EducationApp2\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "EducationApp2\\Models\\Appointment.cs",
+              "ToolTip": "C:\\Users\\bsra4\\source\\repos\\EducationApp2\\EducationApp2\\Models\\Appointment.cs",
+              "RelativeToolTip": "EducationApp2\\Models\\Appointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T12:19:40.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\bsra4\\source\\repos\\EducationApp2\\EducationApp2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "EducationApp2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\bsra4\\source\\repos\\EducationApp2\\EducationApp2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "EducationApp2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T09:58:54.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\bsra4\\source\\repos\\EducationApp2\\EducationApp2\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "EducationApp2\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\bsra4\\source\\repos\\EducationApp2\\EducationApp2\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "EducationApp2\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T09:58:55.373Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
